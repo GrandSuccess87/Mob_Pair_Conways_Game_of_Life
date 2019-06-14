@@ -43,4 +43,9 @@ defmodule ConsoleWorldTest do
 |-|,
 |-|"]
   end
+
+  test "prints five rows" do
+    assert ConsoleWorld.build_rows(%{size: 5}) ==
+["|-|-|", "|-|-|", "|-|-|", "|-|-|", "|-|-|"]
+  end
 end
