@@ -1,6 +1,6 @@
 # ElixirConwaysGameOfLife
 
-**TODO: Add description**
+**TODO**
 To run the application type `mix run lib/main.ex`
 
 ## Installation
