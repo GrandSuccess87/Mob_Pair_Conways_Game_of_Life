@@ -1,6 +1,6 @@
 # ElixirConwaysGameOfLife
 
-**TODO: Add description**
+**TODO**
 To run the application type `mix run lib/main.ex`
 
 ## Installation
@@ -19,3 +19,4 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/mob_pair_cgol](https://hexdocs.pm/mob_pair_cgol).
+# Mob_Pair_Conways_Game_of_Life

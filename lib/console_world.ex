@@ -3,3 +3,4 @@ defmodule ConsoleWorld do
     String.trim(String.duplicate(String.duplicate("|-", size) <> "|" <> "\n", size))
   end
 end
+end
