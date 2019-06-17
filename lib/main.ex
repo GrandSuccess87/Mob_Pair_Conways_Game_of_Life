@@ -1,1 +1,1 @@
-IO.puts(ConsoleWorld.empty_world)
+IO.puts(ConsoleWorld.empty_world(%{size: 15}))
