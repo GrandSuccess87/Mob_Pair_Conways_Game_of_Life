@@ -7,6 +7,7 @@ defmodule ConsoleWorld do
 def populated_world([head | tail]) do
   populated_world(tail)
 end
+
   def populated_world(%{size: size}, %{world: world}) do
 "|*|-|
 |-|-|"
